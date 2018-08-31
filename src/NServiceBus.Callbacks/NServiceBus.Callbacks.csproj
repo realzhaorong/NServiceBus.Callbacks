@@ -5,7 +5,8 @@
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>$(SolutionDir)NServiceBus.snk</AssemblyOriginatorKeyFile>
     <OutputPath>..\..\binaries\</OutputPath>
-    <Description>Euonia.NServiceBus Callbacks</Description>
+    <Description>NServiceBus Callbacks</Description>
+    <PackageId>Euonia.NServiceBus.Callbacks</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
